@@ -1,0 +1,14 @@
+-------------------------------
+Username		Score
+-------------------------------		
+2356			0		
+kiki			1			
+trial			2		
+numbaha			-1				
+kuro			7		
+kiki			7		
+time			1
+user			-2
+Trial			1
+Name			3
+User			-3

@@ -1,0 +1,7 @@
+./run: project_main.o project_functions.o
+	gcc -o run project_main.o project_functions.o 
+project_main.o: project_main.c project_header.h
+	gcc -c project_main.c
+project_function.o: project_func.c project_header.h
+	gcc -c project_functions.c
+

@@ -1,0 +1,43 @@
+-----------------------------------------------------------
+		Information:-					
+-----------------------------------------------------------
+		Instructions:				
+1. 	Game consists of 1 Round with a duration of 2 minutes	
+
+2. 	The Round will Start after you enter your Username		
+
+3. 	Score will be stored for later display					
+-----------------------------------------------------------
+		Game Mechanics:											
+1. 	You will be shown a square matrix of size 4 with 		
+	randomly generated numbers,								
+
+2. 	You will be given 3 seconds to memorise the matrix 		
+	after which it shall be replaced by stars				
+
+3. 	You will then be asked where a certain number is		
+
+4. 	Rows and Columns of the matrix are shown to help 		
+	you guess the position  of asked numbers.				
+
+5. 	Some numbers in the matrix might be repeated in which 	
+	case you may choose either when asked					
+
+6. 	If the position is correctly guessed you will be 		
+	awarded +1 and the number will be replaced by a 		
+	# to indicate that that number has been guessed 		
+	already. 												
+
+7. 	If the position is not correctly guessed -1 will be 	
+	awarded												
+															
+-----------------------------------------------------------	
+		About:
+	This game was created by students of FYMCA 
+	Roll Numbers:
+		1901
+		1903
+		1921 	
+	as part of their OS project for SEM-II, 2020			
+-----------------------------------------------------------
+	
